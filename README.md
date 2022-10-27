@@ -1,13 +1,14 @@
 <h1 align="center">
   Olá! Eu sou Guilherme Oliveira 🐱‍💻 
 </h1>
----
 
 <div align="center">
   <a href="https://github.com/guioliveiras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioliveiras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioliveiras&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+  ##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,10 +26,11 @@
           
  ---
   
- <div align="center"> 
-  <a href = "mailto:silva.guilherrmeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silvaguilhermeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
  
   ![Snake animation](https://github.com/guioliveiras/guioliveiras/blob/output/github-contribution-grid-snake.svg)
+
+  <a href = "mailto:silva.guilherrmeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/silvaguilhermeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
+ </div

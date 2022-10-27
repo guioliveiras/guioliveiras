@@ -1,7 +1,6 @@
-<h2 align="center">
-  Olá! Eu sou Guilherme Oliveira.
-</h2>
-
+<h1 align="center">
+  Olá! Eu sou Guilherme Oliveira 🐱‍💻 
+</h1>
 ---
 
 <div align="center">

@@ -1,5 +1,5 @@
 <h2 align="center">
-  Olá! Eu sou a Guilherme Oliveira.
+  Olá! Eu sou Guilherme Oliveira.
 </h2>
 
 ---

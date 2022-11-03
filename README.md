@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, my name is Guilherme Oliveira, and... I come in peace! 🐱‍💻 🖖🏽
+  I come in peace! 🐱‍💻 🖖🏽
 </h1>
 
 <div align="center">

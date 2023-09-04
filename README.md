@@ -1,5 +1,5 @@
 <h1 align="center">
-  I come in peace! 🖖🏽
+  Hi I'm Guilherme and come in peace! 🖖🏽
 </h1>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá ! Sou Guilherme Oliveira e venho em paz! 🖖🏽
+  Olá ! Sou Guilherme Oliveira 🖖🏽
 </h1>
 
 <div align="center">

@@ -2,7 +2,7 @@
 
 # Guilherme Oliveira 
 
-*Engenheiro de Dados* em formação pela Ada Tech junto ao Santander
+<sub>*Engenheiro de Dados* em formação pela Ada Tech junto ao Santander</sub>
 
 
 **Experiência com:**

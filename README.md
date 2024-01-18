@@ -1,8 +1,9 @@
-<h1 align="center">
-  Olá ! Sou Guilherme Oliveira 🖖🏽
-</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+# Guilherme Oliveira 
 
 <sub>*Engenheiro de Dados* em formação pela Ada Tech junto ao Santander</sub>
+
 
 **Experiência com:**
 Python, Big Data, Estátistica e Machine Learning.
@@ -17,4 +18,3 @@ Python, Big Data, Estátistica e Machine Learning.
 
 <a href="https://medium.com/@raffaelhfarias" alt="Medium">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>  
-

@@ -9,7 +9,6 @@ Atualmente como Desenvolvedor Backend utilizo minhas habilidades em Python, Java
 **Experiência com:**
 Python, SQL, Big Data, Estátistica e Machine Learning.
 
-# Links:
 
 <a href="mailto:silva.guilhermeoliveira@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

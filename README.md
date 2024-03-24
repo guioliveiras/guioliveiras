@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-# Guilherme Oliveira 
+# Olá Mundo! 👋🏽🌎
 
 Sou engenheiro de análise de dados com experiência em análise de sistemas, tendo trabalhado em soluções para os setores de educação, saúde, construção civil edistribuição de energia. Sou formado em Engenharia Elétrica pela Universidade Federal de Pernambuco e Python & Dados pela ADA Tech. 
 

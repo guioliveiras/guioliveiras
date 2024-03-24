@@ -2,12 +2,9 @@
 
 # Guilherme Oliveira 
 
-<sub>*Engenheiro de Dados* em formação pela Ada Tech junto ao Santander</sub>
+Sou engenheiro de análise de dados com experiência em análise de sistemas, tendo trabalhado em soluções para os setores de educação, saúde, construção civil edistribuição de energia. Sou formado em Engenharia Elétrica pela Universidade Federal de Pernambuco e Python & Dados pela ADA Tech. 
 
-Atualmente como Desenvolvedor Backend utilizo minhas habilidades em Python, Java e serviços web para criar e manter bancos de dados e APIs, garantindo integração perfeita com sistemas de terceiros. Além disso, realizo  mineração e visualização de dados trazendo análises com insights.
-
-**Experiência com:**
-Python, SQL, Big Data, Estátistica e Machine Learning.
+Possuindo expertises abrangente em Análise de dados, Banco de dados, PySpark e Databricks, além das linguagens Python, SQL, C++ e Java. Estou sempre em busca de aprimoramento, explorando novas tecnologias e disponível para contribuir com soluções de dados de qualidade, com habilidades de comunicação eficazes, escuta ativa e uma abordagem colaborativa.
 
 ---
 

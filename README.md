@@ -2,9 +2,9 @@
 
 # Olá Mundo! 👋🏽🌎
 
-Sou engenheiro de análise de dados com experiência em análise de sistemas, tendo trabalhado em soluções para os setores de educação, saúde, construção civil e distribuição de energia. Sou formado em Engenharia Elétrica pela Universidade Federal de Pernambuco e Python & Dados pela ADA Tech. 
+Sou Engenheiro de análise de dados com experiência em análise de sistemas, tendo trabalhado em soluções para os setores de educação, saúde, construção civil e distribuição de energia. Sou formado em Engenharia Elétrica pela Universidade Federal de Pernambuco e Engenharia de Dados pela ADA Tech em parceria com o Santander. 
 
-Possuindo expertises abrangente em Análise de dados, Banco de dados, PySpark e Databricks, além das linguagens Python, SQL, C++ e Java. Estou sempre em busca de aprimoramento, explorando novas tecnologias e disponível para contribuir com soluções de dados de qualidade, com habilidades de comunicação eficazes, escuta ativa e uma abordagem colaborativa.
+Possuindo expertises abrangente em Análise de dados, Banco de dados, PySpark e Databricks, além das linguagens Python, SQL, C++ e Java. Estou sempre em buscando aprimoramento e explorando novas tecnologias disponíveis para contribuir com soluções de qualidade.
 
 ---
 

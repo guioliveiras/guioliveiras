@@ -2,14 +2,12 @@
 
 # Olá Mundo! 👋🏽🌎
 
-Sou Engenheiro de análise de dados com experiência em análise de sistemas, tendo trabalhado em soluções para os setores de educação, saúde, construção civil e distribuição de energia. Sou formado em Engenharia Elétrica pela Universidade Federal de Pernambuco e Engenharia de Dados pela ADA Tech em parceria com o Santander. 
+Sou Engenheiro de Análise de Dados com experiência em Análise de Sistemas, tendo trabalhado em soluções para os setores de educação, saúde, construção civil e distribuição de energia. Sou formado em Engenharia Elétrica pela Universidade Federal de Pernambuco e Engenharia de Dados pela ADA Tech em parceria com o Santander.
 
-Possuindo expertises abrangente em Análise de dados, Banco de dados, PySpark e Databricks, além das linguagens Python, SQL, C++ e Java. Estou sempre em buscando aprimoramento e explorando novas tecnologias disponíveis para contribuir com soluções de qualidade.
+Possuo expertises abrangente em Análise de Dados, Banco de Dados, PySpark e Databricks, além das linguagens de programação Python, SQL, C++ e Java. Estou sempre em buscando aprimoramento, e explorando novas tecnologias disponíveis para contribuir com soluções de qualidade.
 
----
+## Redes Sociais
 
-<a href="mailto:silva.guilhermeoliveira@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<a href="https://www.linkedin.com/in/silvaguilhermeoliveira/" alt="Linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://guioliveiras.github.io/portifolio-projetos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silva.guilhermeoliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvaguilhermeoliveira/)

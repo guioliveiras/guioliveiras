@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
 
 # Olá Mundo! 👋🏽🌎
 
-Sou Engenheiro de Análise de Dados com experiência em Análise de Sistemas, tendo trabalhado em soluções para os setores de educação, saúde, construção civil e distribuição de energia. Sou formado em Engenharia Elétrica pela Universidade Federal de Pernambuco e Engenharia de Dados pela ADA Tech em parceria com o Santander.
+Analista de Dados com mais de 6 anos de experiência, especializado em Machine Learning e Deep Learning, atualmente desenvolvendo soluções estratégicas para Logística. Com atuação relevante em Recursos Humanos e Engenharia Elétrica, além de projetos de desenvolvimento de softwares voltados para Educação e Saúde. Reconhecido por transformar dados em decisões estratégicas, impulsionar a eficiência de processos e resolver desafios complexos com soluções práticas e assertivas.
 
 Possuo expertises abrangente em Análise de Dados, Banco de Dados, PySpark e Databricks, além das linguagens de programação Python, SQL, C++ e Java. Estou sempre em buscando aprimoramento, e explorando novas tecnologias disponíveis para contribuir com soluções de qualidade.
 

@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
-
-#👋🏽 Hello, World!
+Hello, World! 👨🏽‍💻
 
 I’m a Data Analyst with 6+ years of experience, turning data into strategic decisions and high-impact solutions.
 

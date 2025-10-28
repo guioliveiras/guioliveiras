@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
 
-# Olá Mundo! 👋🏽🌎
+#👋🏽 Hello, World!
 
-Analista de Dados com mais de 6 anos de experiência, especializado em Machine Learning e Deep Learning, atualmente desenvolvendo soluções estratégicas para Logística. Com atuação relevante em Recursos Humanos e Engenharia Elétrica, além de projetos de desenvolvimento de softwares voltados para Educação e Saúde. Reconhecido por transformar dados em decisões estratégicas, impulsionar a eficiência de processos e resolver desafios complexos com soluções práticas e assertivas.
+I’m a Data Analyst with 6+ years of experience, turning data into strategic decisions and high-impact solutions.
 
-Possuo expertises abrangente em Análise de Dados, Banco de Dados, PySpark e Databricks, além das linguagens de programação Python, SQL, C++ e Java. Estou sempre em buscando aprimoramento, e explorando novas tecnologias disponíveis para contribuir com soluções de qualidade.
+Currently working in Retail Analytics, focusing on store operations, stock optimization, replenishment, and Internal Store Transfers. My background also includes People Analytics, Human Resources, Electrical Engineering, as well as projects in Education and Healthcare, consistently driving process efficiency and measurable results.
 
-## Redes Sociais
+Skilled in Data Analysis, Databases, PySpark, and Databricks, with proficiency in Python, SQL, C++, and Java.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://guioliveiras.github.io/portifolio-projetos/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silva.guilhermeoliveira@gmail.com)
+## Links
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvaguilhermeoliveira/)

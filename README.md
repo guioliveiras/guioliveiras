@@ -58,7 +58,7 @@ backed by a reproducible Python pipeline.
 `SQL (PostgreSQL · SQL Server · Oracle PL/SQL · BigQuery)` · `Python (Pandas · PySpark · scikit-learn)` · `Power BI (DAX · Power Query)` · `Looker Studio` · `Apache Superset`
 
 **Engineering**
-`dbt` · `Airflow` · `Docker` · `Git` · `GCP` · `Databricks`
+`dbt` · `Airflow` · `Docker` · `Git` · `GCP` · `AWS` · `Databricks`
 
 **Domain**
 `Demand Planning` · `Replenishment` · `Inventory Optimization` · `Workforce Planning` · `Nine-Box` · `Turnover Analysis` · `Data Storytelling`
